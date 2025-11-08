@@ -4,13 +4,13 @@
 ---
 #### Поки тут є кнопки та фони
 - Менюшка
-<img width="1120" height="965" alt="Знімок екрана 2025-11-01 000036" src="https://github.com/user-attachments/assets/83c2f5b1-d7f7-428a-bcbc-f378c02f46f3" />
+<img width="1119" height="968" alt="Знімок екрана 2025-11-08 134958" src="https://github.com/user-attachments/assets/a48e3e4e-c667-4be3-afba-7d0802223495" />
 
 - Вибір рівня
 <img width="1123" height="965" alt="Знімок екрана 2025-11-01 000044" src="https://github.com/user-attachments/assets/830d85e2-e648-4d49-a769-25a130d45e67" />
 
 - Перший (фон)
-<img width="1119" height="968" alt="image" src="https://github.com/user-attachments/assets/d3406186-e8d4-4892-949b-5a5956d3ab87" />
+<img width="1122" height="968" alt="Знімок екрана 2025-11-08 134652" src="https://github.com/user-attachments/assets/90f0bf07-6e1f-46d3-89bb-838f1b46c421" />
 
 - Другий (фон)
 <img width="1119" height="970" alt="image" src="https://github.com/user-attachments/assets/65698bb7-3035-4ba8-8c8a-2e41b2a7e2f2" />
